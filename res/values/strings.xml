@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApkAddUpdateDemo</string>
+    <string name="app_text">APK增量更新演示Demo</string>
+
+    <string name="pub_loading">正在加载中，请稍候...</string>
+    <string name="make_patch">生成新旧版差分包</string>
+    <string name="make_apk">合并生成新版apk</string>
+    
+</resources>
